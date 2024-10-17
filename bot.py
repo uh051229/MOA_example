@@ -19,7 +19,7 @@ disable_progress_bar()
 console = Console()
 
 welcome_message = """
-# Welcome to the Together AI MoA (Mixture-of-Agents) interactive demo!
+# Welcome to the Together AI MoA (Mixture-of-Agents) interactive demo
 
 Mixture of Agents (MoA) is a novel approach that leverages the collective strengths of multiple LLMs to enhance performance, achieving state-of-the-art results. By employing a layered architecture where each layer comprises several LLM agents, MoA significantly outperforms GPT-4 Omni’s 57.5% on AlpacaEval 2.0 with a score of 65.1%, using only open-source models!
 
